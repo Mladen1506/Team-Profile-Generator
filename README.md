@@ -6,7 +6,7 @@
 This application was created to generate a team profile based on user input using the Inquirer module from Node.js 
 and displaying the information on a newly created html page with a style sheet. This project demonstrates use of OOP and TDD using Jest. 
 
-<img width="1440" alt="Screen Shot 2021-11-16 at 7 59 07 PM" src="https://user-images.githubusercontent.com/89114955/142095036-4558f83b-f334-49de-ad9a-83a8fa6f7125.png">
+<img width="1389" alt="Screen Shot 2021-11-16 at 9 04 19 PM" src="https://user-images.githubusercontent.com/89114955/142096059-d1b874c6-577b-423f-b478-f055acc41dfe.png">
 
 ## Table of Contents
 * [Installation](#installation)
